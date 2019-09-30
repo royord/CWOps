@@ -1,3 +1,64 @@
+Practice Instructions and Homework Assignments
+
+for the Level 1 CW Academy Course (Second Edition)
+
+By: Rob, K6RB
+
+© Copyright 2014
+This work is the sole property of Rob Brownstein and the CW Operators club. It may be downloaded and printed for use of CW Academy students. It may not be reproduced on paper or digitally for other purposes without the expressed consent of Rob Brownstein and the CW Operators club.
+
+
+Welcome to CW Academy’s Level 1 course. Before you take note of the homework assignments, below, you should understand how we expect you to practice during the eight-week course.
+
+Your course is broken up into 16 sessions corresponding to a twice weekly on-line meeting with your advisors. You are expected to practice the assignment for session 1, for example, before the on-line session 1 so that the advisor can assess your progress and any problems. So, you practice the
+session 1 assignments for the days preceding session 1, and then practice the session 2 assignment for the days preceding session 2, and so on.
+
+There are two key tools we use to ensure your success in this course. One is Skype which enables us to meet in a virtual training room two times per week, online. We can see and hear each other, and can hear any code being sent.
+
+But the most important tool is Morse Trainer.To set it up, read “Using Morse Trainer.”Morse Trainer is pre-loaded with your homework assignment segments. You will play them, over and over, until you feel comfortable that you recognize each letter’s and number’s sound pattern.
+Note, I did not say each letter’s and number’s dots and dashes or dits and dahs – I said sound pattern. That’s the secret to learning Morse in a way that will scale up in speed as you progress.
+
+So, for example, your first homework assignment is to play the following segments, one at a time, until you feel you can recognize them:
+
+    Segment 1: t t t t t
+    Segment 2: e e e e e
+    Segment 3: a a a a a
+    Segment 4: n n n n n
+    Segment 5: tea
+    Segment 6: tee
+    Segment 7: eat
+    Segment 8: ate
+    Segment 9: at
+    Segment 10: tat
+    Segment 11: teen
+    Segment 12: neat
+    Segment 13: ten
+    Segment 14: net
+    Segment 15: tan
+
+To enter a segment into Morse Trainer, simply select the session/segment from the menu, then hit “play.” You can repeat a segment by hitting “play” over and over again. When you’re done, select the next segment in place of the previous segment, and continue.
+
+This constitutes your ‘copying’ practice. The key is to learn to recognize a letter or number’s pattern, and then recognize words that use those letters. You will start out by adjusting the speed of Morse Trainer so that letters and words are sent at 20 wpm.
+
+Each homework assignment also has segments for ‘sending’ practice. For example, session 1 has the following sending segments:
+
+    Segment 1: tea
+    Segment 2: ten
+    Segment 3: net
+    Segment 4: tee
+What you will do is select a segment, and then play it. Then you will try to imitate it, exactly, using your key or keyer. Repeat it as many times as it takes to feel like you’ve gotten the correct word pattern. For example, “tea” will sound like “dah” space “dit” space “didah.” If you don’t have
+enough space, say, between the “t” and “e”, it will sound like “dahdit” “didah.” That is “na” and not “tea.” Timing is everything in sending.
+
+So, before you meet for session 1, you should be able to recognize the patterns of the letters “t”, “e”, “a” and “n.” And you should be able to recognize the patterns of the words “tea,” “ten,” “net,” and “tee.” And, you will be able to do that at 20 wpm!
+
+During your first session, your advisor will be sending those words to you, individually, and seeing if you have learned them. Then, he/she will ask you, individually, to send words to assess how well you’ve learned good element (dit or dah) timing and spacing.
+
+You probably realize, now, that most of your time and effort will be spent using Morse Trainer BEFORE each session, and the session is primarily used for assessment and constructive suggestions.
+
+You will find that you should be spending at least 30 minutes per day, including session days, broken up into 15 minute periods. But take as long as you need to feel comfortable that you’ve ‘gotten’ the copying and sending segments down before each session.
+
+Okay, now that you know what’s expected of you, here are the homework assignments organized by session and segment.
+
 ## Session 1 (T E A N)
 ### Copying Segments: 
 t t t t t; e e e e e; a a a a a; n n n n n; tea; tee; eat; ate; at; tat; teen; neat; ten; net; tan; eat at ten; ate at ten; at tee
