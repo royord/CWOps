@@ -129,3 +129,50 @@ k k k k k; j j j j j; 8 8 8 8 8; 0 0 0 0 0; x x x x x; q q q q q; z z z z z; <BK
 wl; ur; ok; qrx; rig; wx; ant; pwr; kw; qrz; qth; qrs; qro; qrp; ZL2TT; VK4OM; JE1TRV; BA1CW; KH6LC; AL2A; AA3B; 8044; 7400; 73; ur rst is 579; qth is nr Tulsa; name is barry; ur rst is 559; qth is Dayton oh; name is john;
 ### Letters Learned Thus Far:
 T, E, A, N, O, I, 1, 4, R, H, D, L, 2, 5, U, C, M, W, 3, 6, ?, P, G, 7, 9, /, B, V, K, J, 8, 0, <BT>, X, Q, Z, <BK>
+
+## Session 11
+### Copying Segment:
+* [your callsign] de k6rbur rst 579 nr sf name rob hw? [your callsign] de k6rb k
+* [your callsign] de n3jt ur rst is 5nn <BT> qth mclean va ? mclean va <BT> op is jim de n3jt
+* [your callsign] de w1rm <BT>ur rst 569 569 in ct name is pete bk
+
+###Sending Segment:
+*  k6rb de [your callsign] – ur rst 57n in [your town/city and state abbreviation] - name is [your name] btu k6rb de [your callsign] k
+*  n3jt de [your callsign] – ur rst 56n in [your town/city and state abbreviation] – name is [your name] – n3jt de [your callsign] k
+*  w1rm de [your callsign] – ur rst 45n wid QRN in [your town/city and state abbreviation] - name is [your name] – w1rm de [your callsign] k
+
+## Session 12
+### Copying Segments:
+*  [your callsign] de k6rb wx cldy temp 58 <BT>rig runs 100 w to vert <BT>age is 66 so hw?[your callsign] de k6rb k
+*  [your callsign] de n3jt <BT>wx rain temp 42<BT>rig is k3 es ant is 4 el yagi -age is 65
+ok? de n3jt
+*  [your callsign] de w1rm wx snow temp 24rig is IC 7700 pwr is kw es ant is dipole age is
+70 hw? BK
+
+### Sending Segments:
+*  k6rb de [your callsign] – wx sunny temp 82 –rig runs [your power] w to [your antenna] –
+age is [your age] hw? k6rb de [your callsign] k
+*  n3jt de [your callsign] – wx rain temp 54 –rig runs [your power] w to [your antenna] – age
+is [your age] hw? n3jt de [your callsign] k
+*  w1rm de [your callsign] – wx oc temp 70 –rig runs [your power] w to [your antenna] – age
+is [your age] hw?w1rm de [your callsign] k
+24
+
+## Session 13
+### Copying Segments:
+*  [your callsign] de k6rb tnx fer qso es hpe cu agn 73 <SK> [your callsign] de k6rb ee
+*  [your callsign] de n3jt nice qso tnx cul 73 <SK> [your callsign] de n3jt gn
+*  [your callsign] de w1rm – enjoyed qso <SK> [your callsign] de w1rm ee
+
+### Sending Segments:
+*  k6rb de [your callsign] tu fer qso cu agn 73 <SK> k6rb de [your callsign]
+*  n3jt de [your callsign] cul es nice qso 73 <SK> k6rb de [your callsign] ee
+*  w1rm de [your callsign] enjoyed qso also 73 <SK> w1rm de [your callsign] cu ee
+
+## Session 14
+Before online sessions, listen to HF radio on CW sub-bands. Listen for slower stations calling CQ and copy their callsigns. Listen to slower stations in QSO and see if you can copy what they are saying. Practice sending first, second and wrap exchanges.
+
+Practice sending your callsign, ur qth, and ur name – over and over again!!!
+
+##Session 15 and 16
+No homework
