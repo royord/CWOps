@@ -136,7 +136,7 @@ T, E, A, N, O, I, 1, 4, R, H, D, L, 2, 5, U, C, M, W, 3, 6, ?, P, G, 7, 9, /, B,
 * [your callsign] de n3jt ur rst is 5nn <BT> qth mclean va ? mclean va <BT> op is jim de n3jt
 * [your callsign] de w1rm <BT>ur rst 569 569 in ct name is pete bk
 
-###Sending Segment:
+### Sending Segment:
 *  k6rb de [your callsign] – ur rst 57n in [your town/city and state abbreviation] - name is [your name] btu k6rb de [your callsign] k
 *  n3jt de [your callsign] – ur rst 56n in [your town/city and state abbreviation] – name is [your name] – n3jt de [your callsign] k
 *  w1rm de [your callsign] – ur rst 45n wid QRN in [your town/city and state abbreviation] - name is [your name] – w1rm de [your callsign] k
